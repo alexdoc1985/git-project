@@ -11,15 +11,7 @@ body {
 	border-bottom: 1px dotted #B2BCC6;
 	height:3em;
 }
-#header .slogan {
-	font: 120% Georgia, "Times New Roman", Times, serif;
-	color: #778899;
-	background-color: transparent;
-	float: right;
-	width: 300px;
-	text-align:right;
-	margin-right: 2em;
-	margin-top: 0.5em;
+
 }
 #header .logo {
 	float: left;
